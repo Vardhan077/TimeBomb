@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TimeBomb/static/css/main.899d41f0.css",
+    "main.js": "/TimeBomb/static/js/main.c2c56122.js",
+    "static/js/453.67bc05c0.chunk.js": "/TimeBomb/static/js/453.67bc05c0.chunk.js",
+    "index.html": "/TimeBomb/index.html",
+    "main.899d41f0.css.map": "/TimeBomb/static/css/main.899d41f0.css.map",
+    "main.c2c56122.js.map": "/TimeBomb/static/js/main.c2c56122.js.map",
+    "453.67bc05c0.chunk.js.map": "/TimeBomb/static/js/453.67bc05c0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.899d41f0.css",
+    "static/js/main.c2c56122.js"
+  ]
+}
